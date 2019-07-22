@@ -1,0 +1,5 @@
+Nombre: Cristian Asenjo
+Titulo: Analista
+Edad: 26 años
+Ciudad: Castro
+Teléfono: 942129893
