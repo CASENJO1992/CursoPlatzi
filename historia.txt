@@ -1,5 +1,5 @@
-Nombre: Cristian Asenjo
-Titulo: Analista
+Nombre: Cristian Andres Asenjo Torres
+Titulo: Analista Programador
 Edad: 26 años
 Ciudad: Castro
-Teléfono: 942129893
+Teléfono: +56 942129893
